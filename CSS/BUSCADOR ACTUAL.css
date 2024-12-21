@@ -1,0 +1,101 @@
+/* Estilos para la barra de búsqueda */
+.search-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; /* Centra la barra de búsqueda horizontalmente */
+    background-color: #ffffff; /* Fondo oscuro */
+    padding: 2px;
+    border-radius: 10px 10px 10px 10px; /* Bordes redondeados para un look más moderno */
+    box-shadow: 0 1px 0px rgba(240, 9, 9, 0.1); /* Sombra sutil */
+    max-width: 600px;
+    margin: 0 auto; /* Centra el formulario horizontalmente */
+
+}
+
+.search-form input[type="text"] {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: #00a2ff; /* Texto blanco para cuando buscas*/
+    background-color: #242424; /* Fondo oscuro para el input */
+    border: none; /* Sin bordes */
+    border-radius: 10px 10px 10px 10px; /* Borde redondeado solo a la izquierda */
+    outline: none; /* Sin borde de enfoque */
+}
+
+/* Estilos para los resultados de búsqueda */
+#search-results {
+    display: none; /* Oculto inicialmente */
+    position: absolute;
+    top: 85px; /* Ajusta según la altura del formulario */
+    width: 280px;
+    background:linear-gradient(#000000,#042d30 , black); /* Fondo oscuro */
+    border:2px solid #00a2ff;
+    border-radius: 0px; /* Bordes redondeados */
+    z-index: 1000;
+    max-height: 300px; /* Limita la altura máxima */
+    overflow-y: auto; /* Permite desplazamiento vertical */
+    right: 950px;
+}
+
+.result-item {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #00a2ff; /* Texto blanco */
+    border-bottom: 1px solid #ffffff00; /* Separador entre resultados */
+}
+
+.result-item img {
+    width: 30%;/* tamaño de imagen del buscador */
+    height: 30%;/* tamaño de imagen del buscador */
+    margin-right: 15px;
+    object-fit: cover;
+    border-radius: 5px; /* Bordes redondeados para las imágenes */
+}
+
+.result-item span {
+    font-size: 16px;
+}
+
+.result-item:hover {
+    background:linear-gradient(#000000,#5c5c5c , black); /* Fondo más oscuro al pasar el ratón */
+}
+
+/* Personalización para Firefox */
+#search-results {
+    scrollbar-width: 10px; /* Reduce el tamaño de la barra de desplazamiento */
+    scrollbar-color: #00a2ff #000000; /* thumb color y track color */
+}
+
+/* Estilos adicionales para pantallas pequeñas */
+@media (max-width: 768px) {
+    .search-form {
+        flex-direction: row;
+        width: 200px;
+        padding: 2px;
+    }
+
+    .search-form input[type="text"] {
+        width: 100%;
+        padding: 10px;
+    }
+
+    #search-results {
+        top: 100%; /* Ajusta la posición de los resultados */
+        width: 270px; /* Ocupa el 90% del ancho de la pantalla */
+        left: 105px; /* Centra el resultado en pantallas pequeñas */
+        padding: 0px; /* Añade padding interno para evitar que el contenido se vea muy junto */
+    }
+
+    .result-item {
+        font-size: 14px; /* Reduce ligeramente el tamaño del texto */
+        padding: 8px;
+    }
+
+    .result-item img {
+        width: 75px; /* Ajusta el tamaño de la imagen en pantallas más pequeñas */
+    }
+}

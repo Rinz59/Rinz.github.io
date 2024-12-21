@@ -1,0 +1,60 @@
+/* Contenedor principal, FONDO 2 DEL INDEX HTML */
+.container {
+    background-color: rgba(255, 255, 255, 0);
+    max-width: 1200px; /* Ancho máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 40px;
+    box-sizing: border-box; /* Ajusta el modelo de caja para incluir el padding en el ancho total */
+    margin-top: 85px; /* para subir o bajar el contenido con valor positivo y negativo*/
+}
+
+/* Estilo para cada caja de presentación */
+.box {
+    width: 250px;
+    background-color: #000000;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative; /* Añade posición relativa para utilizar coordenadas 3D */
+    transition: transform 0.3s, box-shadow 0.1s; /* Transición suave para transformaciones y sombra */
+    transform-style: preserve-3d; /* Preserva la transformación 3D de los hijos */
+    transform-origin: center center; /* Origen de la transformación en el centro */
+    cursor: pointer; /* Añade el cursor de mano */
+}
+
+.box img {
+    width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-bottom: 0px solid #00000000;
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin distorsión */
+}
+
+.box p {
+    color: #00a2ff;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
+/* Efecto de "clic" al mantener el cursor */
+.box:hover {
+    transform: rotateY(10deg) rotateX(10deg) scale(1.02); /* Transformación en hover */
+    box-shadow: 0 10px 30px rgb(255, 255, 255); /* Sombra ligeramente más suave en hover */
+}
+
+@media (max-width: 768px) {
+    .container {
+        margin-top: 85px;
+        justify-content: space-between; /* Distribuye uniformemente las cajas en pantallas pequeñas */
+    }
+    .box {
+        width: calc(50% - 10px); /* Cada caja ocupa el 50% del ancho con un margen de 10px */
+        max-width: 100%; /* Ancho máximo 100% */
+    }
+    .box img {
+        height: auto; /* Mantiene la proporción de la imagen */
+    }
+}

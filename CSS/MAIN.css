@@ -1,0 +1,13 @@
+/* Estilos para el contenedor principal */
+main {
+    max-width: 1200px; /* Limita el ancho máximo del contenido */
+    margin: 0 auto; /* Centra el contenedor en la página */
+    padding: 20px;
+    background:linear-gradient(#000000,#085d63 , black);
+}
+
+/* Para dar el efecto de "corte" en los lados, aplicamos un color de fondo diferente */
+.wrapper {
+    background-color: white; /* Color de fondo del contenido principal */
+    padding: 20px;
+}

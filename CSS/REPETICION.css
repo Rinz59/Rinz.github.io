@@ -1,0 +1,131 @@
+/* Estilo global para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Define la familia de fuentes a Arial o sans-serif */
+    background-color: #a8a2a2; /* Color de fondo negro */
+    color: #ffffff; /* Color del texto blanco */
+    margin: 0; /* Elimina el margen predeterminado */
+    padding: 0; /* Elimina el padding predeterminado */
+}
+
+/* Estilo para el encabezado del sitio */
+header {
+    background-color: #333; /* Color de fondo gris oscuro */
+    color: #ffd700; /* Color del texto dorado */
+    padding: 10px 0; /* Espaciado arriba y abajo de 10 píxeles */
+    text-align: center; /* Centra el texto */
+}
+
+/* Estilo para el título h1 dentro del encabezado */
+header h1 {
+    margin: 0; /* Elimina el margen alrededor del título */
+    margin-bottom: 10px; /*para bajar un poco el encabezado*/
+}
+
+/* Estilo para los enlaces de navegación dentro del encabezado */
+header nav a {
+    color: #ffd700; /* Color del texto dorado */
+    margin: 0 15px; /* Márgenes horizontales de 15 píxeles */
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+}
+
+/* Estilo para el contenedor principal del contenido */
+.content {
+    padding: 20px; /* Espaciado interno de 20 píxeles */
+    max-width: 1200px; /* Ancho máximo de 1200 píxeles */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    background-color: #181818; /* Color de fondo negro */
+    color: #fff; /* Color del texto blanco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.986); /* Sombra alrededor del contenedor */
+}
+
+/* Estilo para los títulos h2 dentro del contenido */
+.content h2 {
+    text-align: center; /* Centra el texto */
+    margin-bottom: 20px; /* Espaciado inferior de 20 píxeles */
+}
+
+/* Contenedor para la imagen y la descripción del anime */
+.anime-info {
+    display: flex; /* Usar flexbox para el contenedor */
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en múltiples líneas si es necesario */
+    align-items: flex-start; /* Alinear los elementos al principio del contenedor */
+    gap: 30px; /* Espaciado entre la imagen y la descripción */
+}
+
+/* Estilo para las imágenes de anime */
+.anime-image-container {
+    flex: 1 1 40%; /* El contenedor tomará 40% del ancho del contenedor principal y puede crecer/encogerse */
+    max-width: 100%; /* Asegurarse de que el contenedor no exceda el contenedor principal */
+    perspective: 1000px; /* Añadir perspectiva para el efecto 3D */
+}
+
+.anime-image {
+    max-width: 100%; /* Asegurarse de que la imagen no exceda el contenedor */
+    height: auto; /* Altura automática para mantener la proporción */
+    transition: transform 0.3s, box-shadow 0.3s; /* Transición suave para transformaciones y sombras */
+    transform-style: preserve-3d; /* Preserva el efecto 3D en la imagen */
+}
+
+.anime-image:hover {
+    transform: rotateY(20deg) rotateX(10deg) translateY(-10px); /* Rotar y mover la imagen para el efecto 3D */
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada para efecto de elevación */
+}
+
+/* Estilo para la descripción del anime */
+.anime-description {
+    flex: 1 1 55%; /* La descripción tomará 55% del ancho del contenedor y puede crecer/encogerse */
+    text-align: justify; /* Justifica el texto */
+    margin-bottom: 350px; /* Espaciado inferior de 20 píxeles */
+}
+
+/* Estilo para la lista de episodios */
+.episode-list {
+    list-style-type: none; /* Elimina los marcadores de lista */
+    padding: 0; /* Elimina el padding */
+    margin: 0; /* Elimina el margen */
+    overflow-y: auto; /* Hace que la lista sea desplazable verticalmente */
+    max-height: 220px; /* Altura máxima de la lista */
+    
+}
+
+/* Estilo para los elementos de la lista de episodios */
+.episode-list li {
+    width: 20%; /* Ancho del 100% del contenedor */
+    margin-bottom: 15px; /* Espaciado inferior de 10 píxeles */
+    transition: transform 0.3s; /* Transición suave para la transformación */
+}
+
+
+/* Estilo para los enlaces dentro de la lista de episodios */
+.episode-list a {
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+    color: #ffd700; /* Color del texto dorado */
+    display: block; /* Hace que el enlace sea un bloque */
+    padding: 15px; /* Espaciado interno de 10 píxeles */
+    border: 1px solid #000000; /* Borde negro sólido */
+    border-radius: 100px; /* Esquinas redondeadas de 5 píxeles */
+    transition: background-color 0.3s, border-color 0.3s; /* Transición suave para el fondo y el borde */
+}
+
+/* Estilo para los enlaces cuando se pasa el ratón por encima */
+.episode-list a:hover {
+    background-color: #ffd700; /* Fondo dorado al pasar el ratón */
+    color: #000; /* Cambia el color del texto a negro al pasar el ratón */
+}
+
+/* Estilo para los episodios cuando están activos */
+.episode-list a.active {
+    background-color: #ffd700; /* Fondo dorado */
+    color: #000; /* Color del texto negro */
+    transform: translateY(10px); /* Mueve el elemento hacia abajo */
+    z-index: 1; /* Asegura que esté encima de otros elementos */
+}
+
+/* Estilo para los iframes */
+iframe {
+    display: block; /* Hace que el iframe sea un bloque */
+    width: 100%; /* Ancho del 100% del contenedor */
+    max-width: 100%; /* Ancho máximo del 100% del contenedor */
+    height: 500px; /* Altura de 500 */
+}
+   

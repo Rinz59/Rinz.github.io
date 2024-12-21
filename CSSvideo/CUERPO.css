@@ -1,0 +1,9 @@
+/* Estilo global para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Define la familia de fuentes a Arial o sans-serif */
+    background-color: #a8a2a2; /* Color de fondo */
+    color: #ffffff; /* Color del texto blanco */
+    margin: 0; /* Elimina el margen predeterminado */
+    padding: 0; /* Elimina el padding predeterminado */
+    margin-top: 10px; /* seperar todo el contenido del anime color negro vertical */
+}

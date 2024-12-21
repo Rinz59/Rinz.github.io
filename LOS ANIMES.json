@@ -1,0 +1,669 @@
+[
+{
+  "id": "1",
+  "title": "BOCHI THE ROCK",
+  "category": "Anime",
+  "image": "IMAGENES/BOCHI THE ROCK.jpg",
+  "description": "Hitori Gotou es una chica de preparatoria que empieza a aprender a tocar la guitarra porque sueña con estar en una banda, pero es tan tímida que no ha hecho ni una sola amiga. Sin embargo, su sueño podría hacerse realidad después de conocer a Nijika Ijichi, una chica que toca la batería y está buscando un nuevo guitarrista para su banda.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1P2kN0U_r2ghNPMbQw6kjAqvC6WZ2xN1x/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1MO4UkNtjJG5jSAm2zHS8Qil9xzlBUd-3/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1LwH7F1kEXlihYtSk6n3ARXxEAKEOLX4X/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/13ru_dxspyjm9h5WF7y9HrNz4NI86jMkg/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1OYbUk1Pf8fuQOpATwE600vI-1vtnM3hJ/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1WoFdcp0wtxMEW6kuxEnliB3mP-cgvwoU/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1Lf9xZTS6mC2U6RWXQBQ0J_t0Y-Fu_rBp/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1Ixjz7_Y2zaoNUhwHy6umyMK8kXMsUAQf/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1LZS1mzt2pk-IZ3Btb4til5he1LKyes0Y/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1hBR5_5g-FRKzzrdsOG5HvrAHfr1YVbSr/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1CeQ7Zw3RZjNp60_9CuBwpj7xcvyrx1pa/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1mBpTuIf2gA7Ent-dM5QdbkTxQ31SOBia/preview"}
+  ]
+},
+{
+  "id": "2",
+  "title": "LYCORIS RECOIL",
+  "category": "Anime",
+  "image": "IMAGENES/LYCORIS RECOIL.jpg",
+  "description": "LycoReco es un café con un toque tradicional japonés ubicado en el centro de Tokio. ¡Pero el delicioso café y azucarados postres no son los únicos pedidos que acepta este café! Desde la entrega de paquetes, las recogidas y devoluciones en las solitarias calles nocturnas, ¡¿Hasta zombis y exterminio de monstruos gigantes...?! Cualquiera que sea su problema, ¡estamos aquí para ayudarlo! ¡Resolveremos cualquier tipo de problema que pueda tener!",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1fSiFsZW_C_GUWRKPsm39TOMR6CR9wmLt/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1vX32FTGg7Ydx1qfs2BisNxXiZllh9o-0/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1MykAdmNfUcflPaw99jda7A-hzt36xN5r/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1xuSgW9fHsnM7uDhE6rqTP0_FyJSKZmbx/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1PO-fbsUSk1OmI0Vf1h0SkgIYMTvN7jOo/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1Lv_YjMLTCsQxpmlM80wfUwtk9W_onLTm/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1aCk5kmSGIxJ4EsXtrk5z8gLww4dL1e8K/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1g77yiSzpd3AUofVB3g6L3y9f9I1GDyvV/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1a0fbmtwc6933rGlFQbfXndGLRj5Gz1lF/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1V6-o0Qfrg5bhFbIHwQaoimu-GmVw5bwd/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1pNPC3s40HkdsTCijbbxcBLg2YlQTy3Ng/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1pyjK1PbRQXRIXtFYaqbu7lpW2Xh3n55N/preview"},
+    {"title": "EPISODIO 13", "url": "https://drive.google.com/file/d/1hHFGFzMvCQEZ2BwTcOTuV0nmdGywNsoV/preview"}
+  ]
+},
+{
+  "id": "3",
+  "title": "MAJO NO TABITABI INESTABLE",
+  "category": "Anime",
+  "image": "IMAGENES/MAJO NO TABITABI.jpg",
+  "description": "Elaina es una joven bruja que decide viajar a través del mundo. En su viaje, ella encuentra gente de toda clase, desde un país lleno de brujas hasta un gigante enamorado de sus músculos. En su viaje, a parte de formar parte de sus historias, su propio mundo se hará algo mayor.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1-3TKikYsehKFXkyWNZqqqEfsLpZ8bpb0/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1-lF_NVEsM6aUyB7GcfZ-WPFcVHH-i10z/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/18r6RNZ59gkosXeXgf8ROp6qlguXKlkV1/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1jabsWKt7614El9AHPdLHJD03JQ_7JNxC/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1FMWnHN7BPq1EHHsYXE7tzsCv5NI9yJd1/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1pFUhtWWXE61rJ8BYO8JHqmvu77yNhEdf/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1CgXZQtGh9K18SRwH9h_0AyeB-bTbcHZ4X/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1HUR1EIz5bKL-f0rC0sjKOnZxu-pgDB99/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1rDquO7GFOqN2WzR6piv-nusCi6zLUsmR/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1P4RduZc_ZFL0Dsu_B3sU7wR-7g3OSfX3/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1rGLfKiBvlZscMTdP0K4PQAuF2FWQAMMy/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/15fZdd2cbMQguB72nEZjSvdZXSvszKicK/preview"}
+  ]
+},
+{
+  "id": "4",
+  "title": "STEINS GATE",
+  "category": "Anime",
+  "image": "IMAGENES/Steins Gate.jpg",
+  "description": "Steins;Gate sigue a un grupo de amigos que, tras inventar un dispositivo que permite enviar mensajes al pasado, se ven involucrados en una conspiración que los lleva a enfrentarse a una poderosa organización.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1wBzhpSZKRttx5bqWVG2o0CLQkYIIsAB5/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1BrUACF0ntI-lP0XhNhnmWxexF_D1Ojo0/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1Yv1poB8sf6gzvTu681Hjk7_tybhySOpk/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1cpObVUqZIsD3pnzp6HIezyPfl6sbF5lV/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1xJhPpwpy3ivby4IrP9Ycc2knbfUXHnpO/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1W4XxvijKgmYbHglAEDYfA7x6yvBpee4m/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/19Uh734w_4Wq73GWYwHMzOe8A_BIYG9x3/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1KT1SwlVUfzZtjAVit82M8ZWYbhxittCR/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1AEJUltgGNYfavx7tppPiQyCCg5E9s57W/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1DpBakDiXKbzNb8XxCjSA0MXFbC3w811t/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1pl2aDIfcGp-ilVIqy-7H3NMlyXAMEho0/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1htc19_M2JgoDuiFLfJyKTp-0rk3Jah0w/preview"},
+    {"title": "EPISODIO 13", "url": "https://drive.google.com/file/d/1gWgblhgXTu2ZCcWx1gu0awv6jKhhJplu/preview"},
+    {"title": "EPISODIO 14", "url": "https://drive.google.com/file/d/15hVJHWEQVBU-FDVIEgaxKvff0-kWxcT6/preview"},
+    {"title": "EPISODIO 15", "url": "https://drive.google.com/file/d/1OKE3WHZYBmPwT_ZkFy8IQO2u3bQUo-5G/preview"},
+    {"title": "EPISODIO 16", "url": "https://drive.google.com/file/d/1Ix00hBynQbHA-o0DV95RwZG9HgKMWM0h/preview"},
+    {"title": "EPISODIO 17", "url": "https://drive.google.com/file/d/1g74cGNSeO5GNtdnGH8cThG7jeLjgeYkr/preview"},
+    {"title": "EPISODIO 18", "url": "https://drive.google.com/file/d/1WfFo4XyU9vyk2nx7wHo46sHBsgJXsr7a/preview"},
+    {"title": "EPISODIO 19", "url": "https://drive.google.com/file/d/1qI-jW2HxCfHSWwk0vKFxbVQIFMx4rjSi/preview"},
+    {"title": "EPISODIO 20", "url": "https://drive.google.com/file/d/15OeEp7c0bqJ95qFE4Ahj1ZA0PnPEJ5tJ/preview"},
+    {"title": "EPISODIO 21", "url": "https://drive.google.com/file/d/1IO9XOKmqmSY2R-8W7f4ckZ-tvK3CkjOp/preview"},
+    {"title": "EPISODIO 22", "url": "https://drive.google.com/file/d/138bl5VEIXuwqHFcymm3zZCLRwS8rBn8S/preview"},
+    {"title": "EPISODIO 23", "url": "https://drive.google.com/file/d/1id1m0rayuWJyiZizJQp0gvNNgTqqGeJL/preview"},
+    {"title": "EPISODIO 24", "url": "https://drive.google.com/file/d/11IAj9COmlrSUR4fhsdPl4PLvSO7LQKGB/preview"},
+    {"title": "EPISODIO 25", "url": "https://drive.google.com/file/d/1jHKzgc7P8em4HBwqt1UfaN3LJNClZeDQ/preview"}
+  ]
+},
+{
+  "id": "5",
+  "title": "VIVID STRIKE",
+  "category": "Anime",
+  "image": "IMAGENES/VIVID STRIKE.jpg",
+  "description": "Spin-off de Mahou Shoujo Lyrical Nanoha ViVid. Fuuka Leventon y su amiga Rinne Bellinetta, cuando eran pequeñas sufrían bullying. Fuuka busca fortalecerse para proteger las cosas que ama, porque la felicidad y las cosas que le gustan siempre acaban desapareciendo, y está cansada de que eso ocurra por ser débil.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1XsI5irkh9it7qPsVCGpaFBtf1w3yzeLy/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1EpWw1uVLTeF_ZUhZ4B69nScGxfR5oVyp/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1UiEtsll3hm-WaM4N6E05w4PtuX9VHZW0/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1FJi2wDKBHRZp2ndeyJ8DM1z8ZUwdRcDi/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1kH7SKZ-2bjfc05yNsSndRMXh4gP3-UGT/preview"},
+    {"title": "EPISODIO 5.5", "url": "https://drive.google.com/file/d/1A7O03V3oyqhEqxEUg8k7t0Ek6EVQ6n3I/preview"},
+    {"title": "EPISODIO 5.75", "url": "https://drive.google.com/file/d/1dLFchwqB6qm2tLY2cGyUmUjEKtPP1gwy/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1EqfGEGrEdGWn4f_987zKORHPxLwvH3ir/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1z9RTkiNUDlc8UR8QEfDWdtOHxpWBADbz/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1iD-OwtTA6kQEoIVsaoxc9CTlqL1Wv9sa/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1ghwUKFZ6mMuetT3I0cfih05FZ5zsx5JT/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/104ibGuwy1Ktr2eNSDyFx3Q2DyGNbxggX/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1Li_svCZifxUDEA0XL1mcFbeug4cNQUfY/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1zr0IbVWxrGso-ruyD1tCGA9W49F2H24x/preview"},
+    {"title": "EPISODIO 13", "url": "https://drive.google.com/file/d/1ldg7bSUpiOUReE5bctWYWlEE142WsTa6/preview"}
+  ]
+},
+{
+  "id": "6",
+  "title": "STEINS GATE/ AUDIO ESPAÑOL",
+  "category": "Anime",
+  "image": "IMAGENES/Steins Gate.jpg",
+  "description": "La historia de \"Steins;Gate\" toma lugar en Akihabara y trata acerca de un grupo de amigos que modificaron su microondas convirtiéndolo en un dispositivo que puede mandar mensajes de texto al pasado. Mientras realizan diversos experimentos, una organización llamada SERN, que ha estado realizando su propia investigación sobre viajes en el tiempo, los localiza y ahora los personajes deben buscar una manera de evitar ser capturados por ellos.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1eWqtAsIgRLpRqHeIB3X1gENAQCMUSVTY/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1GgSX_rRUGCN4igfukzwCFV3x_rGT-E1t/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1vnE-z6wI7KnO_UVhzZzyYzA8cdIxL36O/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1OfAf9GukeefwCI-eW-029yj3fupeU8PC/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1xgLraNlQfCKv_ZbYePHMD0Yr69L0f31j/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1o5LJIKa_eUtoq6Yz9hcKhnluYx6JWkX0/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1pjy385Nrvyz7cSze3cmTsgrFoHyJcqRg/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1a6VZycttv-IMNYQfJiUBLXC4HAe2j6cU/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1ITW_8jVJTGtB2raZL7q1ie7F0JmrHWO-/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/10pRG8-pJzt49VcqqTX6xPAGpVhn0BoNE/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1Bdt9hx0H5g_Pjst9GlPP2I80KK37yQNn/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1g7B52O8iC7amFYe1pxUticCeBQ_OrP1r/preview"},
+    {"title": "EPISODIO 13", "url": "https://drive.google.com/file/d/1rfiW8G8Kd-W5zrTS1CCLR8UdiCf20BB7/preview"},
+    {"title": "EPISODIO 14", "url": "https://drive.google.com/file/d/1sy2OGgV7LOYSEmA3zpdcoN-VPE_G59_X/preview"},
+    {"title": "EPISODIO 15", "url": "https://drive.google.com/file/d/1WC4QUDXoYQnWU26z39DDysU9Yf1HPTeQ/preview"},
+    {"title": "EPISODIO 16", "url": "https://drive.google.com/file/d/1OKUrMxIH3ikXWgNBmHhbi7N5iKCy_KxR/preview"},
+    {"title": "EPISODIO 17", "url": "https://drive.google.com/file/d/1fy_qzXip36-rssZ1L0mHmIRc_09mDEKS/preview"},
+    {"title": "EPISODIO 18", "url": "https://drive.google.com/file/d/1utd2BcMo7TX4ZPb7t9wlaTTZi8fSaD8Z/preview"},
+    {"title": "EPISODIO 19", "url": "https://drive.google.com/file/d/1FexP2_ZXJbJEEsMngs049O0OpDUtR35_/preview"},
+    {"title": "EPISODIO 20", "url": "https://drive.google.com/file/d/1fYMvCYTliNxB3XutJux_aQf662KsZ1RS/preview"},
+    {"title": "EPISODIO 21", "url": "https://drive.google.com/file/d/1K1UXbzueVzUJPwZf4bDVaXJkm86_xKZn/preview"},
+    {"title": "EPISODIO 22", "url": "https://drive.google.com/file/d/1FD2cMLZgxLws4D6JjG0aYEK19LZU2kR9/preview"},
+    {"title": "EPISODIO 23", "url": "https://drive.google.com/file/d/1IU0ec1pAG6HWbGaoHHXlLbJjCKRwWhFS/preview"},
+    {"title": "EPISODIO 24", "url": "https://drive.google.com/file/d/1kRVRwiHjDZoFPPFnvQ2I4V5pNLcMR2VS/preview"},
+    {"title": "EPISODIO 25", "url": "https://drive.google.com/file/d/12ewh2-qvTQ825TYD5FyJ7taI0ej0Coe4/preview"},
+    {"title": "OVA", "url": "https://drive.google.com/file/d/1UnkTj0D1ndormr_UThBVklpM2gvqhEx2/preview"}
+    ]
+},
+{
+  "id": "7",
+  "title": "Maho Shojo Madoka MagicaI",
+  "category": "Anime",
+  "image": "IMAGENES/MADOKA PORTADA.jpg",
+  "description": "Madoka, es una chica ordinaria de segundo año de la Tercera Secundaria; un día, una chica llamada Homura que luce exactamente como ella aparece en sus sueños se trasladó a su escuela. Desde ese encuentro con una chica milagrosa, Madoka tiene que estar en contra de su nuevo destino como una chica mágica.",
+  "episodes": [
+    {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1OxMk2Gl7LYWpM4JboiILAykUaFdJfxaH/preview"},
+    {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1wsMN2Qh6MAJMc7E5iXrrbN83KTmJuxO7/preview"},
+    {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/13DUhKjWM5kiiEBXDsHLbfyeOKFLYvW0P/preview"},
+    {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1xzzceLuWLMxhtUI8U_R91dHZLbMIBHrd/preview"},
+    {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/12n4rn_PHTsFRXQH_zuU9wjNoUFmaHgBf/preview"},
+    {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1_7RItY-RLesV0KGB8iIu-B4KBZg1mXU6/preview"},
+    {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1D-j4xlMHTc1BGC62kReRk2sGruk8IBIq/preview"},
+    {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1XvucM8M2rk_6pn1lpkqG7qt5ayqSjrB7/preview"},
+    {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1ggfr1NaUFUjFKTewLoiCQ1iRWeT5SiAh/preview"},
+    {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1hqauP2ftQAkq-HkVMTudaIvwDtWm8AMh/preview"},
+    {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1dedYsdGyp50Ex-ZMPU6rigby1WH0W1tE/preview"},
+    {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/18hnuz3SHcutVzD9dAJAS1CgQPmElqB5G/preview"}
+    ]
+},
+{
+      "id": "8",
+      "title": "Gekijouban Mahou Shoujo Madoka Magica Zenpen - Hajimari no Monogatari",
+      "category": "Anime",
+      "image": "IMAGENES/PELICULA 1.jpg",
+      "description": "Primera película de la trilogía de Madoka Magica, recopilando los 8 primeros episodios de la serie.",
+      "episodes": [
+      {"title": "PELICULA 1", "url": "https://drive.google.com/file/d/1di2ecq1hWVw5GaQlik52j1U4COrpZGrH/preview"}
+      ]
+  },
+  {
+
+    "id": "9",
+    "title": "Gekijouban Mahou Shoujo Madoka Magica Kouhen - Eien no Monogatari",
+    "category": "Anime",
+    "image": "IMAGENES/PELICULA 2.jpg",
+    "description": "Segunda película de la trilogía de Madoka Magica que recopila los episodios de la serie.",
+    "episodes": [
+      {"title": "PELICULA 2", "url": "https://drive.google.com/file/d/1cup3AwCo_s_rF5IVsOLGVtuEIGjmGEg6/preview"}
+      ]
+  },
+  {
+    "id": "10",
+    "title": "Gekijouban Mahou Shoujo Madoka Magica Shinpen - Hangyaku no Monogatari",
+    "category": "Anime",
+    "image": "IMAGENES/PELICULA 3.jpg",
+    "description": "Madoka Kaname, una chica normal que una vez llevó una vida feliz, pero que se sacrificó para librar a todas las puella magi del cruel destino que les esperaba. Incapaz de soportar la muerte de su amiga, Homura Akemi continúa luchando sola en el mundo que Madoka dejó, soñando con volver a encontrarse una vez más con esa sonrisa nostálgica...",
+    "episodes": [
+      {"title": "PELICULA 3", "url": "https://drive.google.com/file/d/18IDN__HHBqmWw6JBXO0vSX0O6RUh7RtK/preview"}
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Uma Musume: Pretty Derby",
+    "category": "Anime",
+    "image": "IMAGENES/UMA MUSUMUNE.jpg",
+    "description": "Las protagonistas de la franquicia son chicas caballo, jóvenes con grandes aptitudes para correr que buscan convertirse en idols y participar en una competencia a nivel nacional conocida como Twinkle Series.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1wR8qbLQv9A3zIfZYWfq9rGhmETZr0nEu/preview"},
+      {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1C8yEG4UXqttNd4jY9Oc5-pOUfQVc9vsu/preview"},
+      {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1TPYCs1wONpl9OqZH6THebUjYdALq-8i2/preview"},
+      {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/18Jcpz2bd9euO-K1Iy6pZTX7LQQO0rQvh/preview"},
+      {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1vQv92-riI8xOBz3VINXSlHugQ8GxFxCX/preview"},
+      {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1rjHjw-3XuNup6ptUKcacpB1AVLbPbUDB/preview"},
+      {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/10xPMkDP_o7gAPtuOA2AeneGFcueIWWt3/preview"},
+      {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/154rolVLC4MNi_noGhu-WWJu-vedeSxlL/preview"},
+      {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1CAefRakUxVD2SHxqCL8CUY1cs95ahZfG/preview"},
+      {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1gwrnYWH5b4ICw_NwJjbT1lh6nASEXXmy/preview"},
+      {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1P0wcra_BuMmrVLEpzqCmLLX8R_3DW_hG/preview"},
+      {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1v6Bz8Vrj32janBmgNIJ7d-wB2LotdTAA/preview"},
+      {"title": "EPISODIO 13", "url": "https://drive.google.com/file/d/1DMtzTme6ZO65EMA6jOSt6zinoIN_nmJq/preview"}
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "category": "Anime",
+    "image": "IMAGENES/RUSA ANIME.jpg",
+    "description": "Alya es una estudiante recién transferida que disfruta de tener buenas calificaciones y mucha popularidad en su nueva preparatoria, aunque lo habitual es que luzca muy fría. No suele hablar nunca con un compañero de clase muy estudioso llamado Kuza Masachika, y cuando lo hace, es para decirle algún halago en ruso. Lo que ella no sabe es que Kuze entiende el ruso, aunque hace ver que no. ¡Comprobemos hasta dónde llega esta curiosa historia de amor!",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1eUAkV5G7SZ2SOCRCJCcWwXg2vgRsxoCM/preview"},
+      {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1RDzjm1Zj-ijKkojlfaQyrTdrwqCMOjkU/preview"},
+      {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/15rTGkpM7pPC2w_oyxmomaEArvSAccGSw/preview"},
+      {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1zGquNTPVYSd2pjvbvZBrdYK1Ji_3a1Nm/preview"},
+      {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1ylKRpAtIb11QKR2zdYhmUcf-dfvTRCCg/preview"},
+      {"title": "PROXIMAMENTE", "url": "https:"}
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Mieruko-chan",
+    "category": "Anime",
+    "image": "IMAGENES/MIERUKO.jpg",
+    "description": "Miko es una típica estudiante de preparatoria cuya vida da un vuelco cuando de repente comienza a ver monstruos espantosos y horrores completamente aterradores. A pesar de estar completamente aterrorizada, Miko sigue con su vida diaria, fingiendo no darse cuenta de los horrores que la rodean. Debe soportar el miedo para mantenerse a ella y a su amiga Hana fuera de peligro, incluso si eso significa enfrentarse cara a cara con lo peor. Mezclando comedia y horror, Mieruko-chan cuenta la historia de una chica que trata de lidiar con lo paranormal actuando indiferente hacia él.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1HuKvzbvYOBgdnIOtdFINwDxz7u_Ex_4x/preview"},
+      {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1g3jhcAWse4GPRD6uulBMH97hVwuyuh5N/preview"},
+      {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1Xd3RE2yOJPe-ivOvHCHchmsyW40XyBUl/preview"},
+      {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1OJSMl4yS0HgG8A4_yAeDgsdHB_8VSG3y/preview"},
+      {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1V2ToiIl8Vl0_3kfWn8ChxMs82gt2UJwk/preview"},
+      {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1-_5f3Q9-Yv6WSyGn17jHHj39yQclQvUJ/preview"},
+      {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1HVL-Zu9UXREp4h05P--UJsEp_AJvUKWs/preview"},
+      {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1CBpazdZYRsDmh6NekFgi8bELu6fjAen-/preview"},
+      {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1u87V31xVbxj8Pgsy6FeyFM0xSdemqcza/preview"},
+      {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1bEsI3ttRUowh-7VbEsfayRdQQDelk-GT/preview"},
+      {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1fCVx1RsqSUg2sWIxbpxsB2t4g_NKrX38/preview"},
+      {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1Txwzd7vbgnUW24jsf86fyWRPLPFBWmwA/preview"}
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Kakegurui",
+    "category": "Anime",
+    "image": "IMAGENES/LAS LOCAS.jpg",
+    "description": "Academia Hyakkaou, una prestigiosa escuela privada. Aquí, en esta academia, los estudiantes se dividen en estratos sociales. De pie por encima de todos los demás está el Consejo Estudiantil, que gobierna sobre los estudiantes con sus juegos de apuestas. Es el cielo si ganas, y el infierno si pierdes. Los adeptos a los juegos de azar son la envidia de todos, mientras que los débiles se quedan a sufrir la locura de la academia. Nuestro protagonista pertenece a la categoría de los débiles y queda endeudado convirtiendo su vida en un infierno. Una chica con un apetito casi sexual a las apuestas se transfiere a esta academia, su nombre es Jabami Yumeko y le pide a Suzui Ryouta que le enseñe los alrededores, qué le depara al futuro de nuestro protagonista y esta misteriosa chica.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Kakeguruixx",
+    "category": "Anime",
+    "image": "IMAGENES/LAS LOCAS 2.jpg",
+    "description": "A medida que la fama de Yumeko Jabami crece y la reputación del Consejo de Estudiantes de la Academia Hyakkaou disminuye, su presidenta, Kirari Momobami, decide disolverlo y convocar elecciones para nombrar a un nuevo presidente. Al recibir la noticia, las familias del clan Momobami se ponen en marcha. Dotados de talentos únicos, once nuevos estudiantes pertenecientes a estas familias se trasladan a la academia, cada uno con el objetivo de liderar tanto la escuela como el clan, ganando unas peculiares elecciones en las que los votos se consiguen mediante apuestas en diferentes juegos propuestos por los participantes.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "16",
+    "title": "MAJO NO TABITABI",
+    "category": "Anime",
+    "image": "IMAGENES/MAJO NO TABITABI.jpg",
+    "description": "Elaina es una joven bruja que decide viajar a través del mundo. En su viaje, ella encuentra gente de toda clase, desde un país lleno de brujas hasta un gigante enamorado de sus músculos. En su viaje, a parte de formar parte de sus historias, su propio mundo se hará algo mayor.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1cV_RgLGfzY3Iuj70-NLVmdrMxGajfZ73/preview"},
+      {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1ixNGc0lVPCG_nyoulfh9B3BsnG4P7PLD/preview"},
+      {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1az_vsVHtBO-7bB5SNbuH4rlcyi1YHevH/preview"},
+      {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1JuFlmzRv1eJQbigcktWel4jDKYxkT_2T/preview"},
+      {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1HIrJsIiPFldoqHjIO0OZN1IMjtsBgc7p/preview"},
+      {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1NSLHu7id_TgUTmq4OE4SrLU4p34IvMCz/preview"},
+      {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/1TM32H9nLVAtZCYb69SjVk2fw-Xzb-1XT/preview"},
+      {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1aht-OQPbMdrnsOmWiTR4FEHBHeMjntpp/preview"},
+      {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/1_OD8E4AOhvatMm7ilNsOMX1_tLOojADg/preview"},
+      {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/1c0K-Lv6S0Gpn5gxAAQGFrHBn1mtP9g7V/preview"},
+      {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1VlwTed5zoDAn8lQg48AeGs-ngWCJ2fk7/preview"},
+      {"title": "EPISODIO 12", "url": "https://drive.google.com/file/d/1CZ8OwRYmA2tlW8QOZC2MBFDxrHXe-PHh/preview"}
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Make Heroine ga Ōsugiru!",
+    "category": "Anime",
+    "image": "IMAGENES/Make Heroine ga.jpg",
+    "description": "Chicas que no lograron conquistar los corazones de las personas que les gustaban: protagonistas perdedoras, es decir, Makeines. Anna Yanami, una chica que adora la comida y la clásica amiga de la infancia. Lemon Yakishio, una chica repleta de energía y muy divertida. Chika Komari, una chica tímida y asustadiza. ¡Una refrescante historia de juventud que nos muestra el lado perdedor del amor con unas protagonistas algo cuestionables! ¡Pierdan y brillen, chicas! ",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1eUAkV5G7SZ2SOCRCJCcWwXg2vgRsxoCM/preview"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Love Live!",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SCHOOLL IDOL.jpg",
+    "description": "Centrada en la Preparatoria Otonokizaka, la cual esta en riesgo de cerrarse debido al numero reducido de estudiantes. Para evitarlo, nueve chicas se volveran idols para promocionar su escuela. ",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Love Live! 2",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SCHOOL IDOL 2.jpg",
+    "description": "Una escuela situada entre los barrios japoneses de Akihabara, Kanda y Jinb?ch? en Tokio. Este centro se encuentra en peligro de ser cerrado por lo que nueve estudiantes femeninas luchan por convertirse en idols para dar fama a su escuela y aumentar la asistencia. ",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "20",
+    "title": "No Game No Life: Zero",
+    "category": "Anime",
+    "image": "IMAGENES/No Game No Life Zero.jpg",
+    "description": "No Game No Life narra las aventuras de Sora y Shiro, unos “hermanos” bastante peculiares, quienes se sumergen en un mundo llamado Disboard y que está plagado de referencias a videojuegos y juegos en general. Pero No Game No Life: Zero nos contará eventos previos a nuestros protagonistas, los cuales fueron “borrados” de la memoria colectiva, interpretando así a personajes que vivieron en Disboard hace seis mil años.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Tate no Yuusha no Nariagari",
+    "category": "Anime",
+    "image": "IMAGENES/TATE 1.jpg",
+    "description": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Tate no Yuusha no Nariagari Season 2",
+    "category": "Anime",
+    "image": "IMAGENES/TATE 2.jpg",
+    "description": "Segunda temporada",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Tate no Yuusha no Nariagari Season 3",
+    "category": "Anime",
+    "image": "IMAGENES/TATE 3.jpg",
+    "description": "Tercera temporada",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Kakegurui Twin",
+    "category": "Anime",
+    "image": "IMAGENES/LAS LOCAS 3.jpg",
+    "description": "Un año antes de que Yumeko Jabami entrara en los sagrados salones de la Academia Privada Hyakkou, Mary Saotome tuvo su propio comienzo en la escuela adicta al juego. ¿Podrá esta chica normal conseguir su propia historia de éxito a base de ingenio y suerte? Descúbrelo en esta precuela de la popular serie Kakegurui.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Hitoribocchi no ○○ Seikatsu",
+    "category": "Anime",
+    "image": "IMAGENES/HITORI BOCHI NO SEIKATSU.jpg",
+    "description": "Hitori Bocchi es una chica que sufre de una tremenda ansiedad social y solo logró hacer una amiga en toda la primaria. Cuando Bocchi descubre que se separará de ella al graduarse, hace una promesa a su preocupada amiga: Cuando llegue la graduación de secundaria habré logrado hacerme amiga de todos mis compañeros de clase. Pero claro, su amiga le pone una condición: si no lo logra, ¡¿dejará de ser su amiga?! El problema es que a Bocchi le cuesta mucho hablar con la gente, y cuando lo intenta le dan calambres en las piernas, se pone nerviosa, ¡y no puede ni mirar a nadie a la cara!",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "26",
+    "title": "No Game No Life",
+    "category": "Anime",
+    "image": "IMAGENES/No Game No Life.jpg",
+    "description": "La historia est&aacute; protagonizada por Sora y Shiro, hermano y hermana, que son muy famosos en todo Internet como NEETs y hikikomoris que se pasan el d&iacute;a jugando a videojuegos, tanto que son una leyenda. Los dos consideran el mundo real como &ldquo;un juego malo&rdquo;. Un d&iacute;a, un chico llamado &ldquo;Dios&rdquo; les invoca a otro mundo. All&iacute;, Dios ha prohibido las guerras y declara que en el mundo todo se decidir&aacute; mediante juegos, incluso cu&aacute;les ser&aacute;n las fronteras entre pa&iacute;ses. La humanidad se ha visto reducida a una sola ciudad debido a que el resto de razas le han ido quitando todo el territorio. Shiro y Sora tendr&aacute;n que ser los salvadores de la humanidad en este mundo alternativo.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE NIJIGASAKI 1.jpg",
+    "description": "La escuela Nijigasaki High School se encuentra en Odaiba, Tokio y es popular debido a su estilo de escuela gratuita y sus diversas especialidades. La historia se centra en los miembros del club de idols escolares en Nijigasaki y su intento de evitar la abolición del club.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE NIJIGASAKI 2.jpg",
+    "description": "Segunda temporada",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Love Live! Sunshine!!",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SUNSHINE 1.jpg",
+    "description": "Esta historia está ambientada en Uchiura, Numazu, Shizuoka, donde el Instituto Femenino Uranohoshi tiene planeado su clausura y traslado de sus estudiantes a otro instituto en Numazu.Takami Chika, una chica normal que hasta entonces no anhelaba nada en especial, se inspira en μ’s para formar un grupo de school idols llamado Aqours con el objetivo de publicitar su instituto y así evitar que cierre.Para ello, planean entrar en el mismísimo Love Live!, un concurso de school idols ganado anteriormente por μ’s.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Love Live! Superstar!!",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SUPERSTAR 1.jpg",
+    "description": "Kanon Shibuya es una “super regular” estudiante de preparatoria que vive con su familia y ayuda en su cafetería local, el negocio de su familia. Kanon es bastante tímida, y cantar ante un público es un martirio para ella, sin embargo, su sueño es alegrar a las personas interpretando las canciones que escribe. “No tengo sueños para el futuro y no soy particularmente buena en nada. Pero incluso siendo una chica normal, no, precisamente porque solo soy eso, hay una sola cosa que puedo hacer: ¡convertirme en una idol escolar!”",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Love Live! Superstar!! 2nd Season",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SUPERSTAR 2.jpg",
+    "description": "Segunda temporada.",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "category": "Anime",
+    "image": "IMAGENES/YOHANE ANIME.jpg",
+    "description": "La historia nos presenta a Yoshiko Tsushima, una idol escolar que vive en la ciudad de Namazu y que forma parte de un grupo llamado Aqours. Yoshiko nunca ha encajado en la sociedad y siempre se ha sentido apartada de todos en su localidad debido a que siente que su vida es un poco aburrida y ella preferiría ser la protagonista de un mundo de fantasía. Un día, el sueño de Yoshiko se vuelve realidad y es enviada a una nueva realidad donde ahora será conocida como Yohane, sin embargo, unas viejas conocidas también serán parte de ese mundo mágico. ",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https:"},
+      {"title": "EPISODIO 2", "url": "https:"},
+      {"title": "EPISODIO 3", "url": "https:"},
+      {"title": "EPISODIO 4", "url": "https:"},
+      {"title": "EPISODIO 5", "url": "https:"},
+      {"title": "EPISODIO 6", "url": "https:"},
+      {"title": "EPISODIO 7", "url": "https:"},
+      {"title": "EPISODIO 8", "url": "https:"},
+      {"title": "EPISODIO 9", "url": "https:"},
+      {"title": "EPISODIO 10", "url": "https:"},
+      {"title": "EPISODIO 11", "url": "https:"},
+      {"title": "EPISODIO 12", "url": "https:"}
+    ]
+  }
+  
+]

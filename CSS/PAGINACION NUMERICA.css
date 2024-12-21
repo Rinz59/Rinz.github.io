@@ -1,0 +1,94 @@
+/* Contenedor principal de la paginación */
+.pagination {
+  display: flex; /* Usar flexbox para el diseño */
+  align-items: center; /* Alinear los elementos verticalmente al centro */
+  justify-content: center; /* Centrar los elementos horizontalmente */
+  text-align: center; /* Centrar el texto */
+  margin-top: 10px; /* Espacio superior */
+  flex-wrap: wrap; /* Permitir que los elementos se envuelvan a la siguiente línea si es necesario */
+}
+
+/* Estilos para los botones de paginación (anterior y siguiente) */
+.pagination button {
+  background:linear-gradient(#15e002,black); /* Fondo rojo */
+  color: white; /* Texto blanco */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  padding: 10px 15px; /* Espaciado interno */
+  margin: 5px; /* Espaciado externo */
+  margin-top: 10px;
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+}
+
+/* Estilos para los botones de paginación cuando se pasa el cursor sobre ellos */
+.pagination button:hover {
+  background:linear-gradient(#00a2ff, black); /* Fondo al pasar el cursor */
+}
+
+/* Contenedor de los números de página */
+.pagination .pages {
+  display: flex; /* Usar flexbox para el diseño */
+  justify-content: center; /* Centrar los elementos */
+  list-style: none; /* Quitar el estilo de lista por defecto */
+  padding: 0; /* Quitar el relleno por defecto */
+  margin: 0; /* Quitar el margen por defecto */
+  flex-wrap: nowrap; /* No permitir que los elementos se envuelvan a la siguiente línea */
+  overflow-x: auto; /* Permitir desplazamiento horizontal si el contenido es más grande que el contenedor */
+}
+
+/* Estilos para los elementos de la lista de páginas */
+.pagination .pages li {
+  margin: 0 5px; /* Espaciado horizontal entre los elementos */
+}
+
+/* Estilos para los enlaces de los números de página */
+.pagination .pages a {
+  text-decoration: none; /* Quitar el subrayado */
+  color: white; /* Texto blanco */
+  padding: 10px; /* Espaciado interno */
+  background:linear-gradient(#15e002,black); /* Fondo negro */
+  border-radius: 5px; /* Bordes redondeados */
+  display: block; /* Convertir en elemento de bloque para permitir el relleno y el margen */
+}
+
+/* Estilos para los enlaces de los números de página cuando se pasa el cursor sobre ellos */
+.pagination .pages a:hover {
+  background:linear-gradient(#00a2ff, black); /* Fondo rojo al pasar el cursor */
+}
+
+/* Estilos para el número de página activo */
+.pagination .pages .active {
+  background:linear-gradient(#00a2ff, black); /* Fondo rojo */
+  color: white; /* Texto blanco */
+}
+
+/* Media query para pantallas medianas (768px o menos) */
+@media (max-width: 768px) {
+  .pagination button, .pagination .pages a {
+    padding: 5px 5px; /* Ajustar el espaciado interno */
+    font-size: 16px; /* Ajustar el tamaño de la fuente */
+    margin: 2px; /* Ajustar el margen */
+  }
+}
+
+/* Media query para pantallas pequeñas (480px o menos) */
+@media (max-width: 480px) {
+  .pagination {
+    flex-direction: row; /* Mantener los elementos en una fila */
+    flex-wrap: nowrap; /* No permitir que los elementos se envuelvan a la siguiente línea */
+    padding: 0px; /* Añadir relleno para mejorar el espacio en pantallas pequeñas */
+  }
+
+  .pagination .pages {
+    flex-wrap: nowrap; /* No permitir que los elementos se envuelvan a la siguiente línea */
+  }
+
+  .pagination .pages li {
+    margin: 0 2px; /* Reducir el margen para mejorar el ajuste en pantallas pequeñas */
+  }
+
+  .pagination button, .pagination .pages a {
+    padding: 8px 10px; /* Ajustar el espaciado interno para pantallas pequeñas */
+    font-size: 8px; /* Ajustar el tamaño de la fuente para pantallas pequeñas */
+  }
+}

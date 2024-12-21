@@ -1,0 +1,20 @@
+/* Estilo base para el icono del menú */
+.menu-icon img {
+    width: 55px; /* Ajusta el ancho del icono según sea necesario */
+    height: auto; /* Mantiene la proporción del icono */
+    transition: transform 0.6s ease, opacity 0.1s ease; /* Añade transición para el efecto de animación */
+}
+
+/* Animación cuando el icono está ampliado */
+.menu-icon img.expanded {
+    transform: scale(1.5); /* Amplía el tamaño del icono al 150% */
+    opacity: 1; /* Asegura que el icono sea completamente opaco */
+}
+
+/* Estilos para vistas móviles */
+@media (max-width: 768px) {
+    .menu-icon img.expanded {
+        transform: scale(1.4); /* Amplía el tamaño del icono al 150% */
+        opacity: 1; /* Asegura que el icono sea completamente opaco */
+    }
+}

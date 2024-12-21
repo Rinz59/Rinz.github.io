@@ -1,0 +1,7 @@
+/* Estilo para los iframes */
+iframe {
+    display: block; /* Hace que el iframe sea un bloque */
+    width: 100%; /* Ancho del 100% del contenedor */
+    max-width: 100%; /* Ancho máximo del 100% del contenedor */
+    height: 1000px; /* Altura de 500 píxeles */
+}

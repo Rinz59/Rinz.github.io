@@ -1,0 +1,114 @@
+/* Estilo para el contenedor del video y la lista de episodios */
+.video-and-episodes {
+    display: flex; /* Utiliza flexbox para organizar el contenido */
+    align-items: flex-start; /* Alinea los elementos al inicio verticalmente */
+    gap: 20px; /* Espacio entre el video y la lista de episodios */
+    margin-top: 50px;
+}
+
+/* Estilo para el contenedor de la lista de episodios */
+.episode-container {
+    width: 300px; /* Ajusta el ancho del contenedor */
+    border: 2px solid #ffd90000; /* Borde del contenedor */
+    border-radius: 1px; /* Esquinas redondeadas del contenedor */
+    padding: 10px; /* Espaciado interno */
+    background-color: #645d5d00; /* Fondo del contenedor */
+    max-height: 500px; /* Altura máxima del contenedor, igual a la del video */
+    overflow-y: auto; /* Hacer que el contenedor sea desplazable verticalmente */
+    text-align: center;
+}
+
+/* Personalización de la barra de desplazamiento */
+.episode-container::-webkit-scrollbar {
+    width: 15px; /* Ancho de la barra de desplazamiento */
+}
+
+.episode-container::-webkit-scrollbar-track {
+    background: #ffffff98; /* Color de fondo de la pista de desplazamiento */
+    border-radius: 0px; /* Esquinas redondeadas de la pista */
+}
+
+.episode-container::-webkit-scrollbar-thumb {
+    background-color: #0a8163; /* Color del pulgar de desplazamiento */
+    border-radius: 1px; /* Esquinas redondeadas del pulgar */
+}
+
+/* Estilo para la lista de episodios */
+.episode-list {
+    list-style-type: none; /* Elimina los marcadores de lista */
+    padding: 0; /* Elimina el padding */
+    margin: 0; /* Elimina el margen */
+}
+
+/* Estilo para los elementos de la lista de episodios */
+.episode-list li {
+    margin-bottom: 15px; /* Espaciado inferior de 15 píxeles */
+    transition: transform 0.3s; /* Transición suave para la transformación */
+}
+
+/* Estilo para los enlaces dentro de la lista de episodios */
+.episode-list a {
+    background-color: rgb(0, 0, 0);
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+    color: #ffffff; /* Color del texto dorado */
+    display: block; /* Hace que el enlace sea un bloque */
+    padding: 10px; /* Espaciado interno de 10 píxeles */
+    border: 4px solid #0a8163; /* Borde color  */
+    border-radius: 10px; /* Esquinas redondeadas de 10 píxeles */
+    transition: background-color 0.3s, border-color 0.3s; /* Transición suave para el fondo y el borde */
+}
+
+/* Estilo para los enlaces cuando se pasa el ratón por encima */
+.episode-list a:hover {
+    background-color: #ffffff; /* Fondo dorado al pasar el ratón */
+    color: #000; /* Cambia el color del texto a negro al pasar el ratón */
+}
+
+/* Estilo para los episodios cuando están activos */
+.episode-list a.active {
+    background-color: #ffffff; /* Fondo dorado */
+    color: #000; /* Color del texto negro */
+    transform: translateY(10px); /* Mueve el elemento hacia abajo */
+    z-index: 1; /* Asegura que esté encima de otros elementos */
+}
+
+/* Media Queries para hacer el diseño responsive */
+@media (max-width: 1024px) {
+    .video-and-episodes {
+        flex-direction: column; /* Cambia la dirección del flex a columna */
+        align-items: center; /* Centra los elementos horizontalmente */
+        width: 100%; /* Puedes ajustar el porcentaje según tus necesidades */
+        height: 500px; /* Cambia esta altura según sea necesario */
+
+    }
+
+    .episode-container {
+        width: 100%; /* Ocupa el ancho completo */
+        max-height: 300px; /* Reduce la altura máxima */
+        margin-top: 20px; /* Añade un margen superior para separación */
+    }
+
+    iframe {
+        height: 300px; /* Ajusta la altura del iframe */
+    }
+}
+
+@media (max-width: 768px) {
+    .episode-container {
+        max-height: 200px; /* Reduce la altura máxima */
+    }
+
+    iframe {
+        height: 250px; /* Ajusta la altura del iframe */
+    }
+}
+
+@media (max-width: 480px) {
+    .episode-container {
+        max-height: 150px; /* Reduce la altura máxima */
+    }
+
+    iframe {
+        height: 200px; /* Ajusta la altura del iframe */
+    }
+}

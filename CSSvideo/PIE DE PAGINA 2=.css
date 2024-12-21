@@ -1,0 +1,42 @@
+body {
+    position: relative;
+    border: 1px; /* Si este borde no es necesario, puedes eliminarlo */
+    min-height: 100vh; /* Asegura que el body tenga al menos la altura de la ventana */
+    margin: 0; /* Elimina márgenes por defecto */
+}
+
+footer {
+    margin-bottom: -200px; /* Mantén este margen si es parte de tu diseño */
+    background: linear-gradient(#075358, #001516);
+    color: rgb(255, 255, 255);
+    height: 200px; /* Altura fija para el diseño */
+    position: absolute; /* Mantén este posicionamiento si es parte del diseño */
+    bottom: 0; /* Asegura que el footer esté en la parte inferior */
+    width: 100%; /* Ocupa el 100% del ancho */
+    text-align: center; /* Centra el texto */
+    margin-top: 10px; /* Ajusta este margen si es necesario para la separación */
+}
+
+/* Estilos adicionales para hacer el footer responsivo */
+@media (max-width: 768px) {
+    footer {
+        height: 140px; /* Permite que la altura se ajuste según el contenido */
+        padding: 20px; /* Añade espacio interno para un mejor aspecto */
+        margin-top: 60px; /* Ajusta el margen superior si es necesario */
+    }
+
+    footer h1, footer p { /* Ajustar texto si es necesario */
+        font-size: 16px; /* Disminuir tamaño de fuente en pantallas más pequeñas */
+    }
+}
+
+@media (max-width: 480px) {
+    footer {
+        padding: 15px; /* Espacio interno más pequeño en pantallas más pequeñas */
+        margin-top: 70px; /* Ajusta el margen superior si es necesario */
+    }
+
+    footer h1, footer p { /* Ajustar texto si es necesario */
+        font-size: 14px; /* Disminuir aún más el tamaño de fuente */
+    }
+}

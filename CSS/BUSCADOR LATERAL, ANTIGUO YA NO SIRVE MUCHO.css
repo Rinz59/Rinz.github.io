@@ -1,0 +1,123 @@
+/* Estilo general del cuerpo */
+body {
+    color: #ffffff; /* Color del texto */
+    font-family: sans-serif; /* Fuente del texto */
+}
+
+/* Contenedor principal para centrar los elementos */
+.main-container {
+    position: relative; /* Posición relativa para permitir posicionamiento absoluto de los hijos */
+    display: flex; /* Usar flexbox para disposición de los elementos */
+    justify-content: center; /* Centrar los elementos horizontalmente */
+    align-items: flex-start; /* Alinear los elementos al inicio verticalmente */
+    padding: 50px; /* Espacio interior del contenedor */
+}
+
+/* Contenedor del buscador */
+.search-container {
+    position: fixed; /* Fija el buscador en una posición específica de la ventana */
+    top: 150px; /* Distancia desde la parte superior de la ventana */
+    left: 20px; /* Distancia desde el borde izquierdo de la ventana */
+    z-index: 1000; /* Coloca el buscador encima de otros elementos */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    padding: 10px; /* Espacio interior del contenedor del buscador */
+    border-radius: 10px; /* Bordes redondeados */
+    border: 2px solid #00ff15; /* Borde verde alrededor del contenedor */
+    box-shadow: 0px 0px 0px 2px #00ff15; /* Borde blanco por defecto cambiado a verde */
+    width: 300px; /* Ancho del contenedor del buscador */
+    display: flex; /* Flexbox para disposición de los elementos hijos */
+    align-items: center; /* Alinear elementos hijos al centro verticalmente */
+    flex-direction: column; /* Disponer elementos hijos en columna */
+}
+
+/* Elimina el efecto de borde al hacer clic */
+.search-container:focus-within {
+    outline: none;
+}
+
+
+/* Estilo del input del buscador */
+.search-container input {
+    background-color: transparent; /* Fondo transparente */
+    border: none; /* Sin bordes */
+    color: #00ff15; /* Color del texto del input */
+    padding: 10px; /* Espacio interior del input */
+    font-size: 16px; /* Tamaño de la fuente del input */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+}
+
+/* Placeholder del input del buscador */
+.search-container input::placeholder {
+    color: #00ff15; /* Color del placeholder */
+}
+
+/* Botón de búsqueda */
+.search-container button {
+    background-color: transparent; /* Fondo transparente */
+    border: none; /* Sin bordes */
+    color: #e01616; /* Color del botón */
+    font-size: 18px; /* Tamaño de la fuente del botón */
+    cursor: pointer; /* Cursor de mano al pasar sobre el botón */
+}
+
+/* Resultados de búsqueda */
+#searchResults {
+    background-color: rgb(0, 0, 0) !important; /* Color de fondo */
+    padding: 15px; /* Espacio interior de los resultados */
+    width: 100%; /* Ancho del contenedor de resultados */
+    border: 1px solid #00000000; /* Borde de los resultados */
+    display: none; /* Ocultar por defecto */
+    max-height: 400px !important; /* Altura máxima de los resultados */
+    overflow-y: auto; /* Scroll vertical si el contenido excede la altura */
+}
+
+/* Elementos individuales de los resultados de búsqueda */
+#searchResults li {
+    display: flex; /* Disposición de los elementos hijos en fila */
+    align-items: center; /* Alinear elementos hijos al centro verticalmente */
+    padding: 10px; /* Espacio interior de cada resultado */
+    cursor: pointer; /* Cambia el cursor a una mano */
+    border-bottom: 1px solid #00ff15; /* Borde inferior de cada resultado */
+}
+
+/* Imagen en los resultados de búsqueda */
+#searchResults li img {
+    width: 75px; /* Ancho de la imagen */
+    height: 100px; /* Altura de la imagen */
+    margin-right: 15px; /* Espacio a la derecha de la imagen */
+}
+
+/* Contenedor de la información en los resultados de búsqueda */
+#searchResults li .info {
+    flex-grow: 1; /* Ocupa el espacio restante */
+}
+
+/* Título en los resultados de búsqueda */
+#searchResults li .info h3 {
+    margin: 0; /* Sin márgenes */
+    font-size: 18px; /* Tamaño de la fuente del título */
+}
+
+/* Descripción en los resultados de búsqueda */
+#searchResults li .info p {
+    margin: 0; /* Sin márgenes */
+    font-size: 16px; /* Tamaño de la fuente de la descripción */
+    color: #e00909; /* Color de la descripción */
+}
+
+/* Etiqueta en los resultados de búsqueda */
+#searchResults li .info .tag {
+    display: inline-block; /* Mostrar en línea pero como bloque */
+    background-color: #0e8b18; /* Color de fondo de la etiqueta */
+    color: #ffffff; /* Color del texto de la etiqueta */
+    padding: 5px 10px; /* Espacio interior de la etiqueta */
+    border-radius: 5px; /* Bordes redondeados */
+    margin-top: 5px; /* Espacio superior de la etiqueta */
+}
+
+/* Hover sobre los resultados de búsqueda */
+#searchResults li:hover {
+    background-color: #000000; /* Fondo más oscuro al pasar sobre un resultado */
+}
+
+

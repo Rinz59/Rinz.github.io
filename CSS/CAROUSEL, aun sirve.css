@@ -1,0 +1,50 @@
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    max-width: 1200px;
+    max-height: 720px;
+    margin: 0 auto;
+}
+
+.carousel {
+    max-width: 1200px;
+    margin: 30px auto 0;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.4); /* Ajusta la opacidad del sombreado */
+    position: relative; /* Cambia la posición a relativa */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    z-index: 1; /* Asegúrate de que los íconos estén en el mismo nivel que el buscador */
+}
+
+.carousel-control-prev-icon::before,
+.carousel-control-next-icon::before {
+    font-size: 30px;
+    color: white;
+}
+
+.carousel-control-prev-icon::before {
+    content: '‹';
+}
+
+.carousel-control-next-icon::before {
+    content: '›';
+}
+
+.carousel-item {
+    /* Elimina la configuración de opacidad y posición absoluta */
+    width: 100%;
+}
+
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}

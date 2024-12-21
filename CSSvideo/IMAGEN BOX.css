@@ -1,0 +1,4 @@
+img{
+    width: 260px; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: 370px; /* Mantiene la proporción de la imagen */
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rinz</title>
+    <link rel="stylesheet" href="CSS/IMAGEN BOX.css">
+    <link rel="stylesheet" href="CSS/ENCABEZADO.css">
+    <link rel="stylesheet" href="CSS/PAGINACION NUMERICA.css">
+    <link rel="stylesheet" href="CSS/PIE DE PAGINA.css">
+    <link rel="stylesheet" href="CSSvideo/ICONO.css">
+    <link rel="stylesheet" href="CSS/BUSCADOR ACTUAL.css">
+    <link rel="stylesheet" href="CSS/FONDO WEB.css">
+    <link rel="stylesheet" href="CSS/MAIN.css">
+</head>
+<body>
+    <header class="header">
+        <a href="index.html" class="logotipo">RINZ</a>
+        
+        <form class="search-form" onsubmit="event.preventDefault();">
+            <input type="text" id="search" placeholder="Buscar..." autocomplete="off">
+        </form>  
+
+        <div id="search-results" style="display: none;"></div>
+        <input type="checkbox" id="menu-toggle">
+        <label for="menu-toggle" class="menu-icon">
+            <img src="ICONO/pngwing.com.png" alt="Menú">
+        </label>
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="#">YOUTUBE</a></li>
+                <li><a href="#">DESCARGA</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+        </div>
+        <div class="pagination">
+            <button id="prevPage">Anterior</button>
+            <div class="pages"></div>
+            <button id="nextPage">Siguiente</button>
+        </div>
+    </main>
+    <footer>
+        <div class="footer"></div>
+    </footer>
+    <!-- Librerías de Bootstrap -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="EVENTO DE PAGINADO.js"></script> 
+    <script src="icono.js"></script>
+    <script src="PAGINACION NUMERICA Y LOS ANIMES.JS"></script>
+    <script src="NAVEGACION ANIME.js"></script>
+    <script src="BUSCADOR ORIGINAL.js"></script>
+    <script src="anime-offline-database.json"></script>
+
+</body>
+</html>

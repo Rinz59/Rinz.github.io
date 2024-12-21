@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rinz</title>
+    <link rel="stylesheet" href="CSSvideo/ENCABEZADOVIDEO.css">
+    <link rel="stylesheet" href="CSSvideo/CUERPO.css">
+    <link rel="stylesheet" href="CSSvideo/IFRAMES.css">
+    <link rel="stylesheet" href="CSSvideo/INFORMACION ANIME.css">
+    <link rel="stylesheet" href="CSSvideo/LISTA DE EPISODEOS.css">
+    <link rel="stylesheet" href="CSSvideo/CONTENIDOPRINCIPAL.css">
+    <link rel="stylesheet" href="CSSvideo/ICONO.css">
+    <link rel="stylesheet" href="CSSvideo/PIE DE PAGINA 2=.css">
+    <link rel="stylesheet" href="CSS/BUSCADOR ACTUAL.css">
+    <link rel="stylesheet" href="CSSvideo/FONDO WEB 2.css">
+    <link rel="stylesheet" href="CSSvideo/IMAGEN BOX.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="index.html" class="logotipo">RINZ</a>
+        
+        <!-- Formulario de búsqueda dinámico -->
+        <form class="search-form" onsubmit="event.preventDefault();">
+            <input type="text" id="search" placeholder="Buscar..." autocomplete="off">
+        </form>
+    
+        <!-- Resultados de búsqueda dinámicos -->
+        <div id="search-results" style="display: none;"></div>
+    
+        <input type="checkbox" id="menu-toggle">
+        <label for="menu-toggle" class="menu-icon">
+            <img src="ICONO/pngwing.com.png" alt="Menú">
+        </label>
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="#">YOUTUBE</a></li>
+                <li><a href="#">DESCARGA</a></li>
+            </ul>
+        </nav>
+    </header><!--EL HEADER ES EL ENCABEZADO -->
+    <div class="content">
+        <h2 id="animeTitle">Anime Title</h2>
+        <div class="anime-info">
+            <img id="animeImage" src="" alt="Anime Image" class="anime-image">
+            <p id="animeDescription" class="anime-description">Anime Description</p>
+        </div>
+        <div class="video-and-episodes">
+            <iframe id="videoFrame" src="" frameborder="0" allowfullscreen style="width: 100%; height: 500px;"></iframe>
+            <div class="episode-container">
+                <ul id="episodeList" class="episode-list"></ul>
+            </div>
+        </div>
+    </div>
+    <footer> 
+    <div class="footer">         
+    </div>
+    </footer>
+<div id="loading" style="display: none;">Cargando...</div>
+    <script src="icono.js"></script>
+    <script src="BUSCADOR ACTUAL PARTE2.js"></script>
+    <script src="DETALLES ANIME.js"></script>
+    <script src="CARGAR EL CAP 1 X DEFECTO.js"></script>
+
+</body>
+</html>

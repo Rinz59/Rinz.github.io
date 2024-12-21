@@ -1,0 +1,21 @@
+.video-container {
+    max-width: 800px; /* Ajusta el ancho máximo del contenedor */
+    margin: 100px auto; /* Centra el contenedor en la página */
+    padding: 20px; /* Espacio interior para el contenedor */
+    border: 2px solid #ccc; /* Borde del contenedor */
+    border-radius: 10px; /* Bordes redondeados */
+    background-color: #f9f9f9; /* Color de fondo del contenedor */
+}
+
+#videoFrame {
+    width: 100%; /* Ancho del 100% del contenedor padre */
+    height: 50px; /* Altura fija para el video */
+    border: none; /* Sin borde en el iframe */
+}
+
+/* Estilo adicional opcional para hacer el video responsivo */
+@media (max-width: 768px) {
+    #videoFrame {
+        height: 300px; /* Altura más pequeña para pantallas pequeñas */
+    }
+}
