@@ -624,7 +624,7 @@
     ]
   },
   {
-    "id": "30",
+    "id": "31",
     "title": "Love Live! Superstar!! 2nd Season",
     "category": "Anime",
     "image": "IMAGENES/LOVE LIVE SUPERSTAR 2.jpg",
@@ -645,7 +645,7 @@
     ]
   },
   {
-    "id": "30",
+    "id": "32",
     "title": "Genjitsu no Yohane: Sunshine in the Mirror",
     "category": "Anime",
     "image": "IMAGENES/YOHANE ANIME.jpg",
@@ -664,6 +664,26 @@
       {"title": "EPISODIO 11", "url": "https:"},
       {"title": "EPISODIO 12", "url": "https:"}
     ]
+  },
+  {
+    "id": "33",
+    "title": "Love Live! Superstar!! 3rd Season",
+    "category": "Anime",
+    "image": "IMAGENES/LOVE LIVE SUPERSTAR 3.jpg",
+    "description": "TERCERA TEMPORADA",
+    "episodes": [
+      {"title": "EPISODIO 1", "url": "https://drive.google.com/file/d/1Y1eHhgURaY2EOA-RrmMLATrbWJ_7SFuQ/preview"},
+      {"title": "EPISODIO 2", "url": "https://drive.google.com/file/d/1vY-EbK1JDdjxlPqXRl-5XbeTCUPMwKR1/preview"},
+      {"title": "EPISODIO 3", "url": "https://drive.google.com/file/d/1mK-dwPEtSfs-zcl5KOuAoe00X1X4W5TW/preview"},
+      {"title": "EPISODIO 4", "url": "https://drive.google.com/file/d/1dbwdRPJP_jLYG_X2q3hgf_D2W33doZaF/preview"},
+      {"title": "EPISODIO 5", "url": "https://drive.google.com/file/d/1Rd0FIUVyilqw9mhNSScZAlU0hsQq4coN/preview"},
+      {"title": "EPISODIO 6", "url": "https://drive.google.com/file/d/1VQdBiexR5zzANY_M4VZvimqUww94uBLL/preview"},
+      {"title": "EPISODIO 7", "url": "https://drive.google.com/file/d/19ckeDcAgtn1dAsZOsvn3d5vtb9xGWd9Z/preview"},
+      {"title": "EPISODIO 8", "url": "https://drive.google.com/file/d/1ZFczKQJEMcdgvuDs8nSBEIXMeh5hichj/preview"},
+      {"title": "EPISODIO 9", "url": "https://drive.google.com/file/d/17se4zgyhiSRienO52l7wuDc5QjA6sj2i/preview"},
+      {"title": "EPISODIO 10", "url": "https://drive.google.com/file/d/10tE75ZOg1yab6FYem2KFFn-GIgkrR2-d/preview"},
+      {"title": "EPISODIO 11", "url": "https://drive.google.com/file/d/1g2spJBD6NB47GhKayxp0xe5fA9WXndfb/preview"},
+      {"title": "PROXIMAMENTE", "url": "https:"}
+    ]
   }
-  
 ]
